@@ -1,6 +1,0 @@
-CREATE TABLE tb_produto(
-id VARCHAR(16) NOT NULL,
-ds_produto VARCHAR(50) NOT NULL,
-
-CONSTRAINT pk_produto PRIMARY KEY(id)
-)
